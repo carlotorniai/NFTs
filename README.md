@@ -1,2 +1,2 @@
 # NFTs
-My github page for NFTS description
+Github page for my NFTs 
